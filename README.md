@@ -28,6 +28,8 @@ print("Swapped values are: {} {}".format(a,b))
 
 ```
 
+![Screenshot 2024-03-07 105554](https://github.com/mithra916/Swapping-two-values/assets/149986612/e56697f6-fff2-4c02-ae7f-912c51c7ea8f)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
