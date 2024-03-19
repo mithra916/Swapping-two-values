@@ -19,6 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+## DEVELOPED BY : R.LOGA MITHRA
+## REGISTER NUMBER : 212223100027
 a=int(input())
 b=int(input())
 temp=a
@@ -27,9 +29,8 @@ b=temp
 print("Swapped values are: {} {}".format(a,b))
 
 ```
-
-![Screenshot 2024-03-07 105554](https://github.com/mithra916/Swapping-two-values/assets/149986612/e56697f6-fff2-4c02-ae7f-912c51c7ea8f)
-
+## OUTPUT:
+![output](/img%201.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
