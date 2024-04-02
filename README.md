@@ -18,9 +18,9 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
 ## DEVELOPED BY : R.LOGA MITHRA
 ## REGISTER NUMBER : 212223100027
+```
 a=int(input())
 b=int(input())
 temp=a
