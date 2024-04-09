@@ -30,7 +30,7 @@ print("Swapped values are: {} {}".format(a,b))
 
 ```
 ## OUTPUT:
-![output](/img%201.png)
+![output](/py%20exp%201.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
